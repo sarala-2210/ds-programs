@@ -1,8 +1,7 @@
 /*double inked list*/
 
-#include <iostream>
+#include <iostream.h>
 #include <stdlib.h>
-using namespace std;
 class dll
 {
 struct list
